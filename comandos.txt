@@ -1,0 +1,7 @@
+1) Inicio
+
+yarn create react-app web --template typescript
+
+2) Iniciar o projeto
+
+yarn start
