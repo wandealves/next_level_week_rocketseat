@@ -1,3 +1,5 @@
+-Front-End
+
 1) Inicio
 
 yarn create react-app web --template typescript
@@ -10,3 +12,22 @@ yarn start
 
 yarn add react-router-dom
 yarn add @types/react-router-dom -D
+
+-Back-End
+
+1) yarn add typescript -D
+
+2) criar arquivo de configuração typescript
+
+yarn tsc --init
+
+3) Usada para executar os typescript
+
+yarn add ts-node-dev -D
+
+4) Express
+
+yarn add express
+yarn add @types/express -D
+
+Dia 2 - 
