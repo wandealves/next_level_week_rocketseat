@@ -38,4 +38,9 @@ yarn add knex sqlite3
 
 yarn knex:migrate
 
+7) Adição dos cors
+
+yarn add cors
+yarn add @types/cors -D
+
 Dia 3
