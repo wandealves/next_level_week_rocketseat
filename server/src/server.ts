@@ -1,10 +1,10 @@
 import express from "express";
 
-const app = express();
-app.use(express.json());
+import routes from "./routes";
 
-app.get("/users", () => {
-  console.log("Acessou a rota");
-});
+const app = express();
+
+app.use(express.json());
+app.use(routes);
 
 app.listen(3333);
