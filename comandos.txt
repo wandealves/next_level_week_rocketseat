@@ -30,4 +30,12 @@ yarn add ts-node-dev -D
 yarn add express
 yarn add @types/express -D
 
-Dia 2 - 
+5) Banco de Dados
+
+yarn add knex sqlite3
+
+6) Comando para executar migration
+
+yarn knex:migrate
+
+Dia 3
